@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "javeriya",
+      "address": "Bangalore",
+      "phone": "8867385797"
+    },
+    {
+      "id": 2,
+      "name": "Adil",
+      "address": "Bombay",
+      "phone": "9564378921"
+    },
+    {
+      "id": 3,
+      "name": "Rehman",
+      "address": "hyderabad",
+      "phone": "9654379605"
+    }
+  ]
+}
